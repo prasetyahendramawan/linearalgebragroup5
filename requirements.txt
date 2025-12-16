@@ -1,4 +1,10 @@
 streamlit
-numpy
-matplotlib
 pandas
+numpy
+scipy
+matplotlib
+seaborn
+nltk
+reportlab
+opencv-python-headless
+pillow
